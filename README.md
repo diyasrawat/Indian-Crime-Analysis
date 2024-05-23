@@ -1,7 +1,7 @@
 # Indian-Crime-Analysis
 # Echoes of Indian Crime: A Data-Driven Analysis
 
-This project aims to conduct a comprehensive data-driven analysis of crime in India, leveraging Exploratory Data Analysis (EDA), univariate, and multivariate techniques to uncover critical insights and patterns. The primary objectives of the analysis are:
+This project aims to conduct a comprehensive data-driven analysis of crime in India, leveraging Exploratory Data Analysis (EDA) - univariate and multivariate techniques to uncover critical insights and patterns. The primary objectives of the analysis are:
 
 ## Objectives
 
